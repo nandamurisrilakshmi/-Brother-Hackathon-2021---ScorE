@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">SocrE</string>
+    <string name="title_device">Device</string>
+    <string name="title_print">Scanned Files</string>
+    <string name="title_scan">Scan</string>
+    <string name="str_startdiscovery">Start</string>
+    <string name="str_stopdiscovery">Stop</string>
+    <string name="action_settings">Settings</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
+    <string name="image">No Image Selected</string>
+    <string name="device_list_name">Device List</string>
+    <string name="ip_title">No Device Selected</string>
+    <string name="ip_default">0.0.0.0</string>
+    <string name="engine_name">None</string>
+    <string name="image_dummy">Dummy</string>
+    <string name="brother_ui_str_preview_title">Page <xliff:g id="step_number">%1$d</xliff:g></string>
+    <string name="error_devicevalidation">Fail to validate the device selected.</string>
+    <string name="error_noappropriate">The selected printer doesn\'t have appropriate PDL.</string>
+    <string name="error_failtoprint">Fail to print.</string>
+    <string name="message_success">Printed!</string>
+    <string name="error_failtoscan_with_status">Fail to scan with </string>
+    <string name="error_noimages">No Images</string>
+    <string name="error_title">Error</string>
+    <string name="error_nodeviceselected">No Device Selected.</string>
+    <string name="button_close">Close</string>
+    <string name="setting_scan_documentsize">Document Size</string>
+    <string name="setting_scan_color">Scan Color</string>
+    <string name="setting_scan_duplex">Duplex</string>
+    <string name="setting_scan_documentsize_default">iso_a4_210x297mm</string>
+    <string name="setting_scan_color_default">Color</string>
+    <string name="setting_scan_duplex_default">Off</string>
+    <string name="setting_scan">Scan Parameters</string>
+    <string name="setting_print_documentsize">Media Size</string>
+    <string name="setting_print_color">Print Color</string>
+    <string name="setting_print_duplex">Duplex</string>
+    <string name="setting_print_documentsize_default">iso_a4_210x297mm</string>
+    <string name="setting_print_color_default">Color</string>
+    <string name="setting_print_duplex_default">Off</string>
+    <string name="setting_print_direct">Direct Printing</string>
+    <string name="setting_print">Print Parameters</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
