@@ -12,15 +12,15 @@
                 "CredentialsProvider": {
                     "CognitoIdentity": {
                         "Default": {
-                            "PoolId": "us-east-2:d3a17216-192a-4b9b-a923-9d9520a6313e",
+                            "PoolId": "",
                             "Region": "us-east-2"
                         }
                     }
                 },
                 "CognitoUserPool": {
                     "Default": {
-                        "PoolId": "us-east-2_3GJOnlnDu",
-                        "AppClientId": "1h57l7lkds4gltifj6ec1cpeme",
+                        "PoolId": "",
+                        "AppClientId": "",
                         "Region": "us-east-2"
                     }
                 },
@@ -31,7 +31,7 @@
                 },
                 "S3TransferUtility": {
                     "Default": {
-                        "Bucket": "brother162747-lakki",
+                        "Bucket": "",
                         "Region": "us-east-2"
                     }
                 }
@@ -41,7 +41,7 @@
     "storage": {
         "plugins": {
             "awsS3StoragePlugin": {
-                "bucket": "brother162747-lakki",
+                "bucket": "",
                 "region": "us-east-2",
                 "defaultAccessLevel": "guest"
             }
